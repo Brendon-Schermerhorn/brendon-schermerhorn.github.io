@@ -1,0 +1,12 @@
+h1 {
+    font-family: fantasy;
+    color:gray;
+    background-color: black;
+    display: inline-block; 
+    margin-bottom: 5px;
+    border-radius: 8px;
+}
+
+div.whoami {
+    font-family: arial;
+}
